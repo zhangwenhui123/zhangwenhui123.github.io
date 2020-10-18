@@ -1,1 +1,1 @@
-[My blog](http://zhangwenhui123.github.io)
+zhangwenhui123.github.io
